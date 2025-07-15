@@ -1,3 +1,4 @@
+![gotify_20250715/intro.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/gotify_20250715/intro.png)
 ![rustdesk_20250629/5a51221b-791b-4cbf-9dfb-aff5b4233e33.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/rustdesk_20250629/5a51221b-791b-4cbf-9dfb-aff5b4233e33.png)
 ![rustdesk_20250629/641338e7-0df8-44c3-8c2b-2008085c8c77.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/rustdesk_20250629/641338e7-0df8-44c3-8c2b-2008085c8c77.png)
 ![rustdesk_20250629/7dd124de-72c8-4bcf-9343-fcd093926183.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/rustdesk_20250629/7dd124de-72c8-4bcf-9343-fcd093926183.png)
