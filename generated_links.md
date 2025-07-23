@@ -8,3 +8,5 @@
 ![rustdesk_20250629/d9a81688-df5b-4192-83ad-11a81a94b672.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/rustdesk_20250629/d9a81688-df5b-4192-83ad-11a81a94b672.png)
 ![wazuh_20250723/wazuh-agent-test-share.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wazuh_20250723/wazuh-agent-test-share.png)
 ![wazuh_20250723/wazuh-agent-test.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wazuh_20250723/wazuh-agent-test.png)
+![wazuh_20250723/wazuh-dashboard-stack-management-index.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wazuh_20250723/wazuh-dashboard-stack-management-index.png)
+![wazuh_20250723/wazuh-dashboard-stack-management.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wazuh_20250723/wazuh-dashboard-stack-management.png)
