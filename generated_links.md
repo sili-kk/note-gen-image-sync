@@ -1,4 +1,4 @@
-![ack_20250903/ack_ingress_2025-09-03_145256_612.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/ack_20250903/ack_ingress_2025-09-03_145256_612.png)
+![ack_20250903/ack_ingress_2025-09-03_145256_613.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/ack_20250903/ack_ingress_2025-09-03_145256_613.png)
 ![gotify_20250715/intro.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/gotify_20250715/intro.png)
 ![rustdesk_20250629/5a51221b-791b-4cbf-9dfb-aff5b4233e33.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/rustdesk_20250629/5a51221b-791b-4cbf-9dfb-aff5b4233e33.png)
 ![rustdesk_20250629/641338e7-0df8-44c3-8c2b-2008085c8c77.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/rustdesk_20250629/641338e7-0df8-44c3-8c2b-2008085c8c77.png)
