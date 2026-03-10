@@ -33,4 +33,4 @@
 ![wazuh_20250723/wazuh-agent-test.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wazuh_20250723/wazuh-agent-test.png)
 ![wazuh_20250723/wazuh-dashboard-stack-management-index.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wazuh_20250723/wazuh-dashboard-stack-management-index.png)
 ![wazuh_20250723/wazuh-dashboard-stack-management.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wazuh_20250723/wazuh-dashboard-stack-management.png)
-![wechat_article_images/仙侠test.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wechat_article_images/仙侠test.png)
+![wechat_article_images/xianxia-test.png](https://cdn.jsdelivr.net/gh/sili-kk/note-gen-image-sync@main/wechat_article_images/xianxia-test.png)
